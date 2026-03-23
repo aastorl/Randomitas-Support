@@ -1,6 +1,7 @@
-# Soporte para Randomitas
+# Support for Randomitas
 
-Si tienes algún problema, duda o sugerencia sobre la app "Randomitas", por favor escríbeme a:
+If you have any issues, questions, or suggestions regarding the "Randomitas" app, please feel free to contact me at:
 **[aastorl79@gmail.com]**
 
-Estaré encantado de ayudarte a mejorar tu experiencia con la app!.
+I am always happy to help ensure you have the best experience with the app.
+
